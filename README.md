@@ -1,1 +1,1 @@
-# BlogApp-Capstone-Project-
+# BlogApp-Capstone-Project
